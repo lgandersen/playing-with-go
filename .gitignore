@@ -1,0 +1,6 @@
+vim_*
+*.sqlite
+testdata
+config.yaml
+suite_test.go
+*_script

@@ -1,0 +1,5 @@
+database: "./data.sqlite"
+root dir: "/home/user/scraped_files"
+folders to ignore: 
+    - "test1"
+    - "test2"
